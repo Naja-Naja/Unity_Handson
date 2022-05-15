@@ -12,4 +12,5 @@
 ![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/addbolt.png)
 - window>PackageManagerからパッケージマネージャーウィンドウを開く
 ![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/2022-05-15%20(2).png)
-- 初期設定
+- マイアセットからボルトを選択し、ダウンロードした後、インポートをする　　
+![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/2022-05-15%20(3).png)
