@@ -7,3 +7,4 @@
 ![プロジェクトの設定例](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/projectsetting.png "")
 
 #  Boltの導入
+![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/addbolt.png "")
