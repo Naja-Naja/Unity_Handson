@@ -7,4 +7,8 @@
 ![プロジェクトの設定例](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/projectsetting.png "")
 
 #  Boltの導入
+- UnityアセットストアでBoltを検索
+- マイアセットに追加を選択
 ![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/addbolt.png "")
+
+- 初期設定
