@@ -6,4 +6,4 @@ UnityHandson資料です。
 - Unityをほとんど触ったことのない初心者
 
 
-[プロジェクト作成](https://github.com/CIST-LT-CLUB/HTML_CSS_JavaScript_Handson/blob/master/VSCode.md)  
+[プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/tree/main/Handson)  
