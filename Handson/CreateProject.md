@@ -22,5 +22,5 @@
 - パッケージマネージャーウィンドウでVersionControlを削除する
 
 # その他パッケージ/アセットの導入
-- PackageManagerから上記の手順を参考にCinemachineを導入
-- アセットストアから[Skyboxのアセットを導入](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)
+- PackageManagerから上記の手順を参考にCinemachineをインポート
+- アセットストアから[Skyboxのアセットをダウンロード](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)
