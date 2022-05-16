@@ -14,5 +14,10 @@ UnityHandson資料です。
 - [プレイヤーをうごかしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
 - [ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
 - [ゲームの開始と終わりを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
+
 ## 応用  
-- [見栄えをよくする](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
+- [オブジェクトに色を付けよう/背景を変更しよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
+- [プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md) 　
+- [エフェクトを作ろう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md) 
+- [BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
+- [ビルドしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
