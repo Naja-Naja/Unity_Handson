@@ -1,17 +1,14 @@
-# 各オブジェクトにマテリアルを設定する
-- プロジェクトウィンドウの空きスペースを右クリックして作成(Create)>マテリアル(Material)を選択
-- 名前をPlayerにする
-- アルベドを好みの色にする
-- ヒエラルキー上のplayerを選択し、インスペクターウィンドウのMeshRenderer>Materials>要素(elements)0にドラッグアンドドロップでマテリアルを設定
-- プレイヤーの色が変わる
-- 床やゴールの色も変えてみる
+# BGMを付ける
+- [よさげなBGM](https://dova-s.jp/bgm/play4551.html)をダウンロードしてきて、Unityのプロジェクトウィンドウにドラッグアンドドロップする
+- ヒエラルキーに空のゲームオブジェクトを作成し、AudioSourceコンポーネントを追加する
+- AudioSourceコンポーネントのAudioClipにプロジェクトウィンドウのBGMをドラッグアンドドロップする
+- ゲーム開始時に再生・ループにチェックをいれて音量を調整する（デフォルトだとかなり大きい）
+- 再生してみる
 
-# Skyboxを設定する
-- window>Rendering>Lightingからライティングウィンドウを開き環境のスカイボックスマテリアルを「プロジェクトの作成」でダウンロードしたスカイボックスに変更　　
-
-  
-![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
-
-
-### 発展
-- PostprocessingでBloomをつけてみる
+# 効果音を付ける
+- [よさげな効果音](https://soundeffect-lab.info/sound/anime/mp3/papa1.mp3)をダウンロードしてきて、Unitynoプロジェクトウィンドウにドラッグアンドドロップする
+- PlayerにAudioSourceを追加してAudioClipに効果音をドラッグアンドドロップする
+- ゲーム開始時に再生・ループのチェックを外して音量を調整する
+- PlayerのScriptMachineに以下のように追記  
+![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow11.png)
+- 再生してみる
