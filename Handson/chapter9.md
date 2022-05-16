@@ -10,7 +10,7 @@
 - PlayerにAudioSourceを追加してAudioClipに効果音をドラッグアンドドロップする
 - ゲーム開始時に再生・ループのチェックを外して音量を調整する
 - PlayerのScriptMachineに以下のように追記  
-![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow11.png)
+![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow12.png)
 - 再生してみる
 
 ### 発展
