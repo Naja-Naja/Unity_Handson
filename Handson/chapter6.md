@@ -8,4 +8,6 @@
 
 # Skyboxを設定する
 - window>Rendering>Lightingからライティングウィンドウを開き環境のスカイボックスマテリアルを「プロジェクトの作成」でダウンロードしたスカイボックスに変更　　
-![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)
+
+  
+![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
