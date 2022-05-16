@@ -1,17 +1,15 @@
-# 各オブジェクトにマテリアルを設定する
-- プロジェクトウィンドウの空きスペースを右クリックして作成(Create)>マテリアル(Material)を選択
-- 名前をPlayerにする
-- アルベドを好みの色にする
-- ヒエラルキー上のplayerを選択し、インスペクターウィンドウのMeshRenderer>Materials>要素(elements)0にドラッグアンドドロップでマテリアルを設定
-- プレイヤーの色が変わる
-- 床やゴールの色も変えてみる
-
-# Skyboxを設定する
-- window>Rendering>Lightingからライティングウィンドウを開き環境のスカイボックスマテリアルを「プロジェクトの作成」でダウンロードしたスカイボックスに変更　　
-
-  
-![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
-
+# ビルドしてみる
+- ファイルからビルドを選択する
 
 ### 発展
-- PostprocessingでBloomをつけてみる
+- タイトルシーンやリザルトシーンを追加してみる
+- クリア後に最初に戻るようにしてみる
+- 落ちたときにゲームオーバーになるようにしてみる
+- etc...
+
+# 終わり
+お疲れ様でした！
+
+一通りUnityでのゲーム開発に必要なものは詰め込んでみたつもりです。
+
+わからないことがあれば[連絡ください](https://twitter.com/game_ad_)
