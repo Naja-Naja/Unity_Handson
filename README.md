@@ -6,5 +6,5 @@ UnityHandson資料です。
 - Unityをほとんど触ったことのない初心者
 
 
-[プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
-[オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
+- [プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
+- [オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
