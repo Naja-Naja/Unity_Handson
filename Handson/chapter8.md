@@ -1,17 +1,13 @@
-# 各オブジェクトにマテリアルを設定する
-- プロジェクトウィンドウの空きスペースを右クリックして作成(Create)>マテリアル(Material)を選択
-- 名前をPlayerにする
-- アルベドを好みの色にする
-- ヒエラルキー上のplayerを選択し、インスペクターウィンドウのMeshRenderer>Materials>要素(elements)0にドラッグアンドドロップでマテリアルを設定
-- プレイヤーの色が変わる
-- 床やゴールの色も変えてみる
+# エフェクトを作る
+- ヒエラルキー上で右クリックしてEffect>ParticleSystemを選択する
+- パーティクルを以下のように設定する
 
-# Skyboxを設定する
-- window>Rendering>Lightingからライティングウィンドウを開き環境のスカイボックスマテリアルを「プロジェクトの作成」でダウンロードしたスカイボックスに変更　　
-
-  
-![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
-
+# エフェクトを出す
+- パーティクルをPlayerの子オブジェクトにする
+- playerのインスペクター上で以下のように設定する
+- PlayerのScriptMachineに以下のように追記する
 
 ### 発展
-- PostprocessingでBloomをつけてみる
+- playerではなく足場の座標にエフェクトを出す
+- 歩いた時の土煙/ジャンプの時の煙/クリアの時のエフェクトなどを追加してみる
+- (VFXを使って作ってみる)
