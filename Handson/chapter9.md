@@ -12,3 +12,7 @@
 - PlayerのScriptMachineに以下のように追記  
 ![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow11.png)
 - 再生してみる
+
+### 発展
+- 他の行動にも効果音を付けてみる
+- StartボタンでBGMを切り替えてみる
