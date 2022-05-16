@@ -11,3 +11,4 @@ UnityHandson資料です。
 - [オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
 - [プレイヤーをうごかしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
 - [ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
+- [ゴールを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
