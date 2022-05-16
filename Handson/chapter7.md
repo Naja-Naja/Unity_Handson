@@ -1,17 +1,15 @@
-# 各オブジェクトにマテリアルを設定する
-- プロジェクトウィンドウの空きスペースを右クリックして作成(Create)>マテリアル(Material)を選択
-- 名前をPlayerにする
-- アルベドを好みの色にする
-- ヒエラルキー上のplayerを選択し、インスペクターウィンドウのMeshRenderer>Materials>要素(elements)0にドラッグアンドドロップでマテリアルを設定
-- プレイヤーの色が変わる
-- 床やゴールの色も変えてみる
+# プレハブを作る
+- インスペクター上にキューブを作成し、小さな足場を作る
+- そのままプロジェクトウィンドウにドラッグアンドドロップする
+- インスペクター上のキューブは削除する
 
-# Skyboxを設定する
-- window>Rendering>Lightingからライティングウィンドウを開き環境のスカイボックスマテリアルを「プロジェクトの作成」でダウンロードしたスカイボックスに変更　　
+# インスタンスの生成
+- 今までの地面にfloarのタグを設定する
+- PlayerのGraphを開いて以下のように変更する　　
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow1.png)  
+- 再生してみる　　
 
-  
-![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
-
-
-### 発展
-- PostprocessingでBloomをつけてみる
+# コルーチン
+- 足場にScriptMachineを追加して以下の図のように組んでみる
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow1.png)  
+- 再生してみる
