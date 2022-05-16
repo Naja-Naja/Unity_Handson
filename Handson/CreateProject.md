@@ -5,8 +5,12 @@
 - 「作成」を選択
 ![プロジェクトの設定例](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/projectsetting.png)
 
-## 以降は2021.2以前のバージョンの人用
-#  Boltの導入
+# VisualScriptingの導入(2021以降のバージョンの場合)
+- Window>PackageManagerからパッケージマネージャーウィンドウを開く
+- VisualScriptingを選択しインポートする
+
+
+#  Boltの導入(旧バージョンの場合)
 - UnityアセットストアでBoltを検索
 - マイアセットに追加を選択
 ![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/addbolt.png)
@@ -16,3 +20,7 @@
 ![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/2022-05-15%20(3).png)
 - セットアップウィザードが起動するので、Next>Programmer Naming>Next>Generate>Closeで設定する
 - パッケージマネージャーウィンドウでVersionControlを削除する
+
+# その他パッケージ/アセットの導入
+- PackageManagerから上記の手順を参考にCinemachineを導入
+- アセットストアから[Skyboxのアセットを導入](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)
