@@ -1,14 +1,5 @@
-# プロジェクトの作成  
-- UnityHubで「新規作成」を選択
-- テンプレートを3Dに設定
-- プロジェクト名と保存先はお好み
-- 「作成」を選択
+# gameobjectをScene上に作成してみる  
+- ヒエラルキー上で右クリックし、3Dオブジェクト>キューブを選択し、シーン上にgameobjectを作成する
+- transformとかを弄って遊んでみる
 
-![プロジェクトの設定例](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/projectsetting.png "")
-
-#  Boltの導入
-- UnityアセットストアでBoltを検索
-- マイアセットに追加を選択
-![マイアセットに追加](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/addbolt.png "")
-
-- 初期設定
+#  コンポーネントを付けてみる
