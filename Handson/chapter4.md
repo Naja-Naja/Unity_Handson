@@ -1,6 +1,6 @@
 # とりあえず跳ねてみる
 - 以下の図のように組んでみる
-- ![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow4.png)
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow4.png)
 - 再生してみる
 - スペースキーでジャンプできた
 - 無限にジャンプできる
