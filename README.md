@@ -4,6 +4,8 @@ UnityHandson資料です。
 
 ## 対象者
 - Unityをほとんど触ったことのない初心者
+- VisualScriptingをやってみたい人
+- 絶対にコードを書きたくない人
 
 # 目次
 
