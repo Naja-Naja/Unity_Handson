@@ -1,13 +1,13 @@
 # エフェクトを作る
 - ヒエラルキー上で右クリックしてEffect>ParticleSystemを選択する
-- パーティクルを以下のように設定する
-![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/particle.png)  
+- パーティクルを以下のように設定する  
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/particle.png)   
 
 # エフェクトを出す
 - パーティクルをPlayerの子オブジェクトにする
 - playerのインスペクター上で以下のように設定する  
 ![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/playerparticle.png)  
-- PlayerのScriptMachineに以下のように追記する
+- PlayerのScriptMachineに以下のように追記する  
 ![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow11.png)  
 
 ### 発展
