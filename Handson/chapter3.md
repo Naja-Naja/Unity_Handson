@@ -27,5 +27,5 @@
 - maincameraにChinemachineBrainを追加する
 - インスペクターを右クリックし、Chinemachine>VirualCameraを追加してみる
 - 以下のように設定
-![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/cinemachine.png)
+![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chinemachine.png)
 - 応用：ほかにもマウスでのエイムや定点カメラなども実装できる
