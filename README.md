@@ -14,7 +14,7 @@ UnityHandson資料です。
 - [オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
 - [プレイヤーをうごかしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
 - [ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
-- [ゲームの開始と終わりを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
+- [ゲームの始まりと終わりを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
 
 ## 応用  
 - [オブジェクトに色を付けよう/背景を変更しよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
