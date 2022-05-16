@@ -1,3 +1,12 @@
+# スタートボタンを作る
+- ヒエラルキー上で右クリックして、UI>ボタンを選択
+- ボタンの中のText(TMP)にあるテキストを「Start」に書き換える
+- ButtonオブジェクトにScriptMachineを追加する
+- 以下の図のように組んでみる  
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow7.png)  
+- 再生してみる
+- 始まりができた
+
 # ゴールを作る
 - よさげな場所に新しくキューブを配置する
 - キューブの名前を「goal」にする
@@ -7,11 +16,6 @@
 - 再生してみる
 - 終わりができた
 
-# スタートボタンを作る
-- ヒエラルキー上で右クリックして、UI>ボタンを選択
-- ボタンの中のText(TMP)にあるテキストを「Start」に書き換える
-- ButtonオブジェクトにScriptMachineを追加する
-- 以下の図のように組んでみる  
-![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow7.png)  
-- 再生してみる
-- 始まりができた
+## 発展
+- キューブを三つ集めたらクリアにしてみる
+- キューブ集めの進捗を示すゲージを実装してみる
