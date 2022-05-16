@@ -6,7 +6,7 @@
 - 再生してみる
 
 # 効果音を付ける
-- [よさげな効果音](https://soundeffect-lab.info/sound/anime/mp3/papa1.mp3)をダウンロードしてきて、Unitynoプロジェクトウィンドウにドラッグアンドドロップする
+- [よさげな効果音](https://soundeffect-lab.info/sound/anime/mp3/papa1.mp3)をダウンロードしてきて、Unityのプロジェクトウィンドウにドラッグアンドドロップする
 - PlayerにAudioSourceを追加してAudioClipに効果音をドラッグアンドドロップする
 - ゲーム開始時に再生・ループのチェックを外して音量を調整する
 - PlayerのScriptMachineに以下のように追記  
