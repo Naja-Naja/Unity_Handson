@@ -18,3 +18,14 @@
 ![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow3.png)
 - 再生して十字入力をしてみる
 - 操作感が変わった
+
+# カメラを追従させてみる
+- maincameraをPlayerの子オブジェクトにしてみる
+- 再生してみる
+- 改善前の動きにしてみる
+- 再生してみる
+- maincameraにChinemachineBrainを追加する
+- インスペクターを右クリックし、Chinemachine>VirualCameraを追加してみる
+- 以下のように設定
+![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/cinemachine.png)
+- 応用：ほかにもマウスでのエイムや定点カメラなども実装できる
