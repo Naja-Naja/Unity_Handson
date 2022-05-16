@@ -5,6 +5,7 @@
 
 # 入力を検知してみる
 - 以下の図のように組んでみる
+![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow1.png)
 - 再生して横入力（A/D　←/→）してみる
 - rigidbodyの質量を調整してみる(0.2とか)
 - 再生して横入力してみる
