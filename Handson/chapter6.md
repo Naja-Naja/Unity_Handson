@@ -11,3 +11,7 @@
 
   
 ![window](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/lightingwindow.png)  
+
+
+### 発展
+- さらに余裕のある人はPostprocessingでBloomをつけてみる
