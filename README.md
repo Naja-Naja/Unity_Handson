@@ -7,3 +7,4 @@ UnityHandson資料です。
 
 
 [プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
+[オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
