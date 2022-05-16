@@ -5,6 +5,7 @@
 - 「作成」を選択
 ![プロジェクトの設定例](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/projectsetting.png)
 
+## 以降は2021.2以前のバージョンの人用
 #  Boltの導入
 - UnityアセットストアでBoltを検索
 - マイアセットに追加を選択
