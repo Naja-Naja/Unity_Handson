@@ -17,7 +17,7 @@ UnityHandson資料です。
 
 ## 応用  
 - [オブジェクトに色を付けよう/背景を変更しよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
-- [プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md) 　
-- [エフェクトを作ろう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md) 
-- [BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
-- [ビルドしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
+- [プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md) 　
+- [エフェクトを作ろう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
+- [BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md) 
+- [ビルドしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter10.md) 
