@@ -14,4 +14,4 @@
 
 
 ### 発展
-- さらに余裕のある人はPostprocessingでBloomをつけてみる
+- PostprocessingでBloomをつけてみる
