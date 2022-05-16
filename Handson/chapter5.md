@@ -2,7 +2,8 @@
 - よさげな場所に新しくキューブを配置する
 - キューブの名前を「goal」にする
 - goalにScript Machineを追加する
-- ScriptMachineを新しく作成し、以下の図のように組んでみる
+- ScriptMachineを新しく作成し、以下の図のように組んでみる  
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow6.png)  
 - 再生してみる
 - 終わりができた
 
@@ -10,6 +11,7 @@
 - ヒエラルキー上で右クリックして、UI>ボタンを選択
 - ボタンの中のText(TMP)にあるテキストを「Start」に書き換える
 - ButtonオブジェクトにScriptMachineを追加する
-- 以下の図のように組んでみる
+- 以下の図のように組んでみる  
+![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow7.png)  
 - 再生してみる
 - 始まりができた
