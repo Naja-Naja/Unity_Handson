@@ -15,6 +15,6 @@
 
 # 移動を改善してみる
 - 以下の図のように組んでみる
-- ![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow.png)
+- ![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow3.png)
 - 再生して十字入力をしてみる
 - 操作感が変わった
