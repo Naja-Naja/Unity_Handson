@@ -25,6 +25,7 @@
 - 再生してみる
 - 改善前の動きにしてみる
 - 再生してみる
+- maincameraをプレイヤーの子オブジェクトから外す
 - maincameraにChinemachineBrainを追加する
 - インスペクターを右クリックし、Chinemachine>VirualCameraを追加してみる
 - 以下のように設定  
