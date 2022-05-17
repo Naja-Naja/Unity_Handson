@@ -33,7 +33,7 @@
 
 
 ### 発展
-- マウスでのエイムを実装してみる
+- ☆マウスでのエイムを実装してみる
 
 
 [次:chapter4 ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
