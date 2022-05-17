@@ -15,7 +15,7 @@
 
 
 ### 発展
-- PostprocessingでBloomをつけてみる
+- ☆PostprocessingでBloomをつけてみる
 
 
 [次:chapter7 プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md)  
