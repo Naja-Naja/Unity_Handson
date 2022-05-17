@@ -24,4 +24,9 @@
 
 ## その他パッケージ/アセットの導入
 - PackageManagerから上記の手順を参考にCinemachineをインポート
-- アセットストアから[Skyboxのアセットをダウンロード](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)
+- アセットストアから[Skyboxのアセットをダウンロード](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)  
+
+
+[次:オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
+前:
+[目次](https://github.com/Naja-Naja/Unity_Handson)  
