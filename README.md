@@ -10,15 +10,15 @@ UnityHandson資料です。
 
 # 目次
 ## 基礎
-- [プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
-- [オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
-- [プレイヤーをうごかしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
-- [ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
-- [ゲームの始まりと終わりを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
+- [chapter1 プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)  
+- [chapter2 オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
+- [chapter3 プレイヤーをうごかしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
+- [chapter4 ジャンプさせてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter4.md)  
+- [chapter5 ゲームの始まりと終わりを作る](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter5.md)  
 
 ## 応用  
-- [オブジェクトに色を付けよう/背景を変更しよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
-- [プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md) 　
-- [エフェクトを作ろう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
-- [BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md) 
-- [ビルドしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter10.md) 
+- [chapter6 オブジェクトに色を付けよう/背景を変更しよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter6.md)  
+- [chapter7 プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md) 　
+- [chapter8 エフェクトを作ろう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter8.md) 
+- [chapter9 BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md) 
+- [chapter10 ビルドしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter10.md) 
