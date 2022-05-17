@@ -14,7 +14,7 @@
 ### 発展
 - playerではなく足場の座標にエフェクトを出す
 - 歩いた時の土煙/ジャンプの時の煙/クリアの時のエフェクトなどを追加してみる
-- (VFXを使って作ってみる)
+- ☆VFXを使って作ってみる
 
 [次:chapter9 BGMを付けよう/効果音を付けよう](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter9.md)  
 [前:chapter7 プレハブ/インスタンス/コルーチン](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter7.md)   
