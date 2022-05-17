@@ -12,5 +12,5 @@
 - 再生ボタンを押してみる
 
 [次:chapter3 プレイヤーを動かしてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter3.md)  
-[前:chapter1 プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter1.md)   
+[前:chapter1 プロジェクト作成](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/CreateProject.md)   
 [目次](https://github.com/Naja-Naja/Unity_Handson)  
