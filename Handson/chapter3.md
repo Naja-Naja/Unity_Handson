@@ -27,7 +27,7 @@
 - 再生してみる
 - maincameraをプレイヤーの子オブジェクトから外す
 - maincameraにChinemachineBrainを追加する
-- インスペクターを右クリックし、Chinemachine>VirualCameraを追加してみる
+- ヒエラルキーの空白を右クリックし、Chinemachine>VirualCameraを追加してみる
 - 以下のように設定  
 ![flow1](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chinemachine.png)  
 
