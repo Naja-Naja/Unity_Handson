@@ -6,6 +6,7 @@
 
 ## インスタンスの生成
 - 今までの地面にfloarのタグを設定する
+- PlayerにisCreateGroundのフラグを作る
 - PlayerのGraphを開いて以下のように変更する　　
 ![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow8.png)  
 ![flow](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/flow9.png) 
