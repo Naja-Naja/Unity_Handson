@@ -28,5 +28,5 @@
 
 
 [次:オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
-前:
+前:  
 [目次](https://github.com/Naja-Naja/Unity_Handson)  
