@@ -1,4 +1,4 @@
-# プロジェクトの作成
+# chapter1 プロジェクトの作成
 ## プロジェクトの作成  
 - UnityHubで「新規作成」を選択
 - テンプレートを3Dに設定
@@ -27,6 +27,6 @@
 - アセットストアから[Skyboxのアセットをダウンロード](https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079)  
 
 
-[次:オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
+[次:chapter2 オブジェクトを置いてコンポーネントを付けてみる](https://github.com/Naja-Naja/Unity_Handson/blob/main/Handson/chapter2.md)  
 前:  
 [目次](https://github.com/Naja-Naja/Unity_Handson)  
